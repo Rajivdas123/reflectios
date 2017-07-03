@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+  -On initializing a repository a new directory named .git added to the main directory.
+  -we need to do that because it's this new file that sotres the metadata about the history 
+   of the different versions.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+  -working directory contains all the files that we have.But staging area contains only those files that we want to 
+   commit that is make changes to.
+
+How can you use the staging area to make sure you have one commit per logical change?
+  -In staging are you can add the files you want to change one by one, then when you commit all the files in the staging
+   area form the commit.In this way you have one commit per logical change            
